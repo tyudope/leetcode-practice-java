@@ -10,17 +10,17 @@ public class PalindromeNumber {
         System.out.println(isPalindrome(120));
     }
     public static boolean isPalindrome(int x){
-        if (x < 0){
+        if (x < 0){ // if given number is negative, it cannot be palindrome.
             return false;
         }
         int tmp = x; // storage x before calculations.
         int reversedNum = 0;
-        while(x != 0){
-            int digit = x % 10;
-            x = x / 10;
-            reversedNum = reversedNum * 10 + digit;
+        while(x != 0){ // until x not equal to the zero
+            int digit = x % 10; // take the last digit.
+            x = x / 10; // divide x by 10
+            reversedNum = reversedNum * 10 + digit; // reverse the number
 
         }
-        return reversedNum == tmp;
+        return reversedNum == tmp; // returns true if the reversed number is equal to the given x
     }
 }
