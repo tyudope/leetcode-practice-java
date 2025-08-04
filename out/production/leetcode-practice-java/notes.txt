@@ -1,0 +1,6 @@
+HaspMap<Integer, Integer> my_map = new HashMap<>(); create a new dictionary.
+my_map.put(key , value); -> add a key value pairs to the hashmap.
+my_map.containsKey(key) -> if it contains specific key returns the true, otherwise false.
+my_map.get(key) -> 	Returns the value that is associated with the specified key. If the key does not exist, return null.
+
+
