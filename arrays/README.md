@@ -6,9 +6,9 @@ This section includes solved LeetCode problems related to **arrays**. Each probl
 
 ## ✅ Easy
 
-| # | Title    | LeetCode Link | Solution |
-|--:|----------|----------------|----------|
-| 1 | Two Sum | [🔗](https://leetcode.com/problems/two-sum/) | [TwoSum.java](easy/TwoSum.java) |
+| # | Title    | LeetCode Link                                               | Solution |
+|--:|----------|-------------------------------------------------------------|----------|
+| 1 | Two Sum | [🔗LeetCode TwoSum](https://leetcode.com/problems/two-sum/) | [TwoSum.java](easy/TwoSum.java) |
 
 ---
 
