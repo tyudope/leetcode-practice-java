@@ -28,6 +28,6 @@ This section includes solved LeetCode problems related to **singly linked lists*
 
 ---
 
-> 📌 Helper Class: [ListNode.java](linkedlist/ListNode.java) is shared between solutions for representing nodes in a singly linked list.
+> 📌 Helper Class: [ListNode.java](medium/ListNode.java) is shared between solutions for representing nodes in a singly linked list.
 
 > 📌 More linked list problems will be added over time as I continue solving them.
