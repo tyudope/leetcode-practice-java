@@ -15,6 +15,7 @@ package arrays.easy;
 //You may assume that each input would have exactly one solution, and you may not use the same element twice.
 //You can return the answer in any order.
 
+import java.util.Arrays;
 import java.util.HashMap;
 
 
@@ -25,6 +26,18 @@ public class TwoSum {
         int target = 9;
         int[] result = twoSum(nums , target);
         System.out.println("Indexes are :" + result[0] + ", " + result[1]);
+        System.out.println("Indexes are :" + Arrays.toString(anotherSolution(nums,target)));
+    }
+    // brute force solution (not efficient)
+    public static int[] anotherSolution(int[] nums, int target){
+        for(int i = 0; i < nums.length; i++){
+            for(int j = 0; j < nums.length; j++){
+                if(nums[i] != nums[j] && nums[i] + nums[j] == target){
+                    return new int[] {i,j};
+                }
+            }
+        }
+        return null;
     }
     public static int[] twoSum(int[] nums , int target){
         // Create a HashMap to store each number and its index as we iterate.
