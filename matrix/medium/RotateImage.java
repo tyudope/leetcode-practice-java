@@ -1,4 +1,4 @@
-package matrix;
+package matrix.medium;
 
 import java.util.Arrays;
 
