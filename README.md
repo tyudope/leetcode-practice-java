@@ -5,6 +5,7 @@ This repository contains Java implementations of LeetCode problems, organized by
 ## 📁 Categories
 
 - arrays/
+- matrix/
 - linked_lists/
 - stacks/
 - queues/
