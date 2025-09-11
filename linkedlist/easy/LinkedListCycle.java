@@ -14,11 +14,11 @@ public class LinkedListCycle {
         ListNode slow = head;
         ListNode fast = head;
         while(slow != null && fast != null){
+            slow = slow.next;
+            fast = fast.next.next;
             if (slow == fast){
                 return true;
             }
-            slow = slow.next;
-            fast = fast.next.next;
         }
         return false;
     }
