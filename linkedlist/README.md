@@ -15,9 +15,9 @@ This section includes solved LeetCode problems related to **singly linked lists*
 
 ## ⚙️ Medium
 
-| #   | Title | LeetCode Link | Solution |
-|----:|-------|----------------|----------|
-|     |       |                |          |
+| #   | Title               | LeetCode Link                                                          | Solution                                           |
+|----:|---------------------|------------------------------------------------------------------------|----------------------------------------------------|
+| 142 | Linked List Cycle II | [🔗 LeetCode 142](https://leetcode.com/problems/linked-list-cycle-ii/) | [LinkedListCycleII.java](medium/LinkedListCycleII.java) |
 
 ---
 
