@@ -11,6 +11,7 @@ This section includes solved LeetCode problems related to **singly linked lists*
 | 206 | Reverse Linked List | [🔗 LeetCode 206](https://leetcode.com/problems/reverse-linked-list/) | [ReverseLinkedList.java](easy/ReverseLinkedList.java) |
 | 141 | Linked List Cycle   | [🔗 LeetCode 141](https://leetcode.com/problems/linked-list-cycle/)   | [LinkedListCycle.java](easy/LinkedListCycle.java)     |
 | 234 | Palindrome Linked List   | [🔗 LeetCode 234](https://leetcode.com/problems/palindrome-linked-list/)    | [PalindromeLinkedList.java](easy/PalindromeLinkedList.java) |
+| 83  | Remove Duplicates from Sorted List | [🔗 LeetCode 83](https://leetcode.com/problems/remove-duplicates-from-sorted-list/) | [RemoveDuplicatesFromSortedList.java](easy/RemoveDuplicatesFromSortedList.java) |
 ---
 
 ## ⚙️ Medium

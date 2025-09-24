@@ -19,7 +19,8 @@ This section includes solved LeetCode problems related to **singly linked lists*
 | #   | Title               | LeetCode Link                                                          | Solution                                           |
 |----:|---------------------|------------------------------------------------------------------------|----------------------------------------------------|
 | 142 | Linked List Cycle II | [🔗 LeetCode 142](https://leetcode.com/problems/linked-list-cycle-ii/) | [LinkedListCycleII.java](medium/LinkedListCycleII.java) |
-
+| 83  | Remove Duplicates from Sorted List     | [🔗 LeetCode 83](https://leetcode.com/problems/remove-duplicates-from-sorted-list/) | [RemoveDuplicatesFromSortedList.java](easy/RemoveDuplicatesFromSortedList.java) |
+| 19  | Remove Nth Node From End of List       | [🔗 LeetCode 19](https://leetcode.com/problems/remove-nth-node-from-end-of-list/)   | [RemoveNthNodeFromEndOfList.java](medium/RemoveNthNodeFromEndOfList.java) |
 ---
 
 ## 🔥 Hard
